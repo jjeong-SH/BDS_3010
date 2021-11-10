@@ -1,4 +1,11 @@
-**Package requirements**
+# BigData Computing course project (BDS3010-01)
+### 주제: COVID 대유행 기간 동안 미디어의 백신 언급도에 따른 관련 주가 변화 분석
+
+조원: 김연요, 정상희, 정재원, 안유균
+
+*for explanation, please check out our project ppt file!*
+
+## Package requirements
 adjustText
 bs4
 requests
@@ -10,17 +17,17 @@ Sklearn
 
 
 
-**Executor's Environment**
+## Executor's Environment
 Mac OS jupyter notebook
 
 
 
-**Executing Guide**
+## Executing Guide
 Q1 -> News_crawler -> Q2_1  -> relation -> Q2_2 -> Q3 -> Q4
 
 
 
-**Data Location and Specification**
+## Data Location and Specification
 1)  './data': 공공기관 및 금융기관에서 다운받은 데이터
 
 - 'owid-covid-data.csv' : 코로나 발생 현황 데이터
