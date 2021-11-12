@@ -4,6 +4,8 @@
 조원: 김연요, 정상희, 정재원, 안유균
 
 *for explanation, please check out our project ppt file!*
+![Big_data_computing_team1_2](https://user-images.githubusercontent.com/80621384/141470050-9aee2ed5-634c-48b3-b520-b68b78a63c86.jpg)
+
 
 ## Package requirements
 adjustText
